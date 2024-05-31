@@ -1,0 +1,10 @@
+---
+server:
+  port: 7070
+
+users:
+  admins:
+    - gjoinsey1@blogger.com
+    - scrosi4@cam.ac.uk
+    - brundle@cam.ac.uk
+
